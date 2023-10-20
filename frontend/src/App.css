@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.container1{
+  font-size: 50px;
+  margin: 100px;
+  background-color: beige;
+  border: 2px solid lightblue;
+  border-radius: 34px;
+  
+}
